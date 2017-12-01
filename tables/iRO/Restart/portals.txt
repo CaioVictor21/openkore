@@ -188,11 +188,11 @@ cmd_fild07 136 134 comodo 209 143 1200 c c r2 c r1
 
 
 # Training Grounds
-new_1-1 148 112 new_1-2 100 9
-new_2-1 148 112 new_2-2 100 9
-new_3-1 148 112 new_3-2 100 9
-new_4-1 148 112 new_4-2 100 9
-new_5-1 148 112 new_5-2 100 9
+new_1-1 148 112 new_1-2 100 9 0 c r~/No/ r~/No/ r~/No/ r~/No/ r~/No/ r~/Yes/ x
+new_2-1 148 112 new_2-2 100 9 0 c r~/No/ r~/No/ r~/No/ r~/No/ r~/No/ r~/Yes/ x
+new_3-1 148 112 new_3-2 100 9 0 c r~/No/ r~/No/ r~/No/ r~/No/ r~/No/ r~/Yes/ x
+new_4-1 148 112 new_4-2 100 9 0 c r~/No/ r~/No/ r~/No/ r~/No/ r~/No/ r~/Yes/ x
+new_5-1 148 112 new_5-2 100 9 0 c r~/No/ r~/No/ r~/No/ r~/No/ r~/No/ r~/Yes/ x	
 new_1-2 100 6 new_1-1 144 112
 new_2-2 100 6 new_2-1 144 112
 new_3-2 100 6 new_3-1 144 112
